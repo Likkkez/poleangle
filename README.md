@@ -7,4 +7,5 @@ This addon adds a nice button to the IK constraint.
 
 # limitations:
 Works only on a chain of 2 bones
+
 Works on the first IK constraint in the list.
